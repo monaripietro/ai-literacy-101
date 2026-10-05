@@ -23,6 +23,7 @@ Le lezioni le tengo dal 2019: corsi aziendali, master, università, scuola. Le t
 | [Glossario](glossario.md) | I termini, definiti come li uso in aula |
 | [Strumenti e prompt](strumenti.md) | Le web app (ognuna nel suo repo) e i prompt che uso come strumenti |
 | [Fonti](fonti.md) · [Evoluzione](evoluzione.md) | Bibliografia; registro datato di cosa cambia |
+| [Pubblicazioni](pubblicazioni.md) | I miei articoli e capitoli su AI ed educazione |
 | [Manutenzione](manutenzione.md) | Cosa va riverificato e quando |
 
 ## I nuclei { #nuclei }
@@ -31,17 +32,18 @@ Ogni nucleo è una pagina sola. Dentro trovi perché, obiettivi, concetti chiave
 
 | Nucleo | Stato | Stabilità | Attività |
 |---|---|---|---|
-| [M01 · Percezione, da dove partiamo](nuclei/01-percezione.md) | scheda | stabile | Haiku sull'AI; Credenze sull'AI e matrice 2x2 |
+| [M01 · Percezione, da dove partiamo](nuclei/01-percezione.md) | scheda | stabile | Haiku sull'AI; Credenze sull'AI e matrice 2x2; AI on the beat: il rap delle credenze; Miti o fatti; Perché sbagliamo: percezione, bias, stereotipi |
 | [M02 · Il sogno ancestrale, storia e cultura dell'AI](nuclei/02-storia-e-cultura.md) | scheda | stabile | Cineforum, "Torna da me"; La linea del tempo costruita dalla classe; Cantiamo insieme: la canzone dell'AI; ELIZA e Weizenbaum |
-| [M03 · Machine learning, lo schema a 6 caselle](nuclei/03-machine-learning.md) | completo | stabile | Il foglietto (lo strumento definitivo); Lo schema a 6 caselle su altri sistemi |
+| [M03 · Machine learning, lo schema a 6 caselle](nuclei/03-machine-learning.md) | completo | stabile | Il foglietto (lo strumento definitivo); Lo schema a 6 caselle su altri sistemi; Alleno un modello e ci costruisco un gioco |
 | [M04 · Complicato o complesso? Perché l'AI non si spiega](nuclei/04-complessita.md) | scheda | stabile | — |
 | [M05 · Anatomia della chatbot, token e LLM](nuclei/05-anatomia-chatbot.md) | scheda | evolutivo | La frase a catena (un LLM in carne e ossa); Dentro il tokenizzatore |
 | [M06 · L'LLM nudo e crudo, le caratteristiche intrinseche](nuclei/06-caratteristiche-llm.md) | scheda | evolutivo | Caccia all'allucinazione; Vedere la finestra di contesto |
-| [M07 · Le funzionalità, cosa l'app aggiunge al modello](nuclei/07-funzionalita.md) | scheda | volatile | Dal CV alla web app; Mappa delle funzionalità a tre livelli |
+| [M07 · Le funzionalità, cosa l'app aggiunge al modello](nuclei/07-funzionalita.md) | scheda | volatile | Dal CV alla web app; Mappa delle funzionalità a tre livelli; Riepiloghi su misura |
 | [M08 · Scegliere il modello, ragionamento e valutazioni](nuclei/08-modelli-e-ragionamento.md) | scheda | evolutivo | L'autolavaggio e il carrello |
 | [M09 · Prompting, la lente d'ingrandimento](nuclei/09-prompting.md) | scheda | evolutivo | Dal muro di testo ai cinque pilastri |
 | [M10 · Agenti, dall'aiuto all'autonomia](nuclei/10-agenti.md) | scheda — da sviluppare | evolutivo | — |
 | [M11 · Dati, etica e potere](nuclei/11-dati-etica-potere.md) | scheda | evolutivo | — |
+| [M12 · Scuola e didattica](nuclei/12-scuola-e-didattica.md) | scheda | evolutivo | — |
 
 ## Stabile, evolutivo, volatile
 

@@ -141,6 +141,12 @@ Due conseguenze pratiche:
 - **Classificazione e clustering** (3 min): la classificazione è supervisionata (le categorie le decide chi prepara gli esempi). Il clustering è non supervisionato (i gruppi li trova il sistema).
 - **Ripasso a inizio incontro**: il quiz sullo schema a 6 caselle.
 
+Dal percorso per la scuola:
+
+- **Indovina la mia età** (20 min): la classe fa domande al docente, tutte permesse tranne "quanti anni hai?". Ragionando sugli indizi stima l'età. Poi la stessa stima la fa una macchina, da una foto del docente. Come ha ragionato la classe, come la macchina? Solo sul volto del docente: mai su quello degli studenti.
+- **Disegni per una macchina** (15 min): Quick, Draw! di Google. Si disegna e la macchina indovina, perché ha visto milioni di disegni fatti da altri. Poi si guardano gli esempi da cui ha imparato.
+- **Ripasso scritto** (30 min, a inizio incontro): "scrivi come funziona il machine learning o fanne uno schema", consegnato e rivisto insieme.
+
 ## Punti critici e da verificare
 
 - **Semplificazione dichiarata**: lo schema non distingue pre-training, fine-tuning e reinforcement learning. Per un pubblico tecnico va aggiunta una nota.
@@ -225,6 +231,35 @@ A ogni gruppo un sistema. Compilare le 6 caselle: dataset, hardware e algoritmo,
 - In quale casella sta il problema quando il sistema sbaglia?
 
 Chi compila tutto giusto vince una canzone personalizzata.
+
+> **Da rivedere.** Scheda ricostruita dai materiali di un corso per la scuola: va controllata e completata.
+
+### Alleno un modello e ci costruisco un gioco { #alleno-un-modello }
+
+**Durata:** 2 ore · **Gruppo:** coppie a un computer · **Materiali:** un ambiente di programmazione a blocchi con estensioni di AI (per esempio RAISE Playground del MIT), Teachable Machine · **Schermi:** sì
+
+**In una frase:** si allena un piccolo modello su oggetti di uso comune e lo si usa dentro un videogioco a blocchi.
+
+#### Perché la faccio
+
+È lo schema a 6 caselle fatto con le mani. Dataset (le foto), addestramento (pochi secondi), modello allenato (un link), applicazione (il gioco), input nuovo (l'oggetto davanti alla webcam), output (la previsione).
+
+#### Passaggi
+
+1. **Tutorial (20 min).** Due tutorial guidati dell'ambiente a blocchi.
+2. **Il modello (30 min).** In Teachable Machine si allena un modello su quattro oggetti (libro, astuccio, borraccia, quaderno). Si esporta e se ne copia il link.
+3. **Il gioco (40 min).** Il link si incolla nel blocco dell'estensione: il gioco reagisce all'oggetto mostrato.
+4. **La tua idea (30 min).** Ogni coppia propone e prototipa un gioco che usi un modello.
+
+#### Debriefing
+
+- Cosa succede se mostri un oggetto che il modello non ha mai visto?
+- Quante foto servono? Cosa cambia se sono tutte sullo stesso sfondo?
+
+#### Cosa può andare storto
+
+- **Volti ed emozioni:** alcuni esperimenti già pronti riconoscono espressioni del volto. Con i minori si usano oggetti, non volti: sono dati biometrici. E l'AI Act vieta dal 2025 i sistemi che riconoscono le emozioni nelle scuole. Un esperimento didattico è un'altra cosa, ma è meglio non avvicinarsi.
+- Il link del modello lo pubblica online: dentro ci sono le foto dell'addestramento.
 
 ## Schemi
 

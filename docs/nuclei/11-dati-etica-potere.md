@@ -63,6 +63,10 @@ Dal percorso uno a uno:
 - **Troppe chat, troppi agenti** (10 min): quando ci si sente dispersi, un quaderno di carta con data, attività avviate e nome delle chat. Poi la chat stessa come registro: "cosa abbiamo fatto stamattina?". Altrimenti diventi schiavo di quello che la tecnologia ti dice.
 - **Adottare in azienda** (15 min): un ufficio pilota con un caso preciso; alleati che provano una funzione per una settimana e portano il caso; una lista di problemi e soluzioni prima del rilascio; gli esperti di dominio sono i colleghi, non il formatore.
 
+Dal percorso per la scuola:
+
+- **Scenari futuri della scuola** (60 min): si parte dai quattro scenari dell'OCSE sul futuro della scuola. Ogni gruppo ne sceglie uno, lo sviluppa con l'aiuto di una chatbot e ne genera un'immagine. Poi analisi critica: cosa ha aggiunto la macchina? Quali stereotipi ci sono nelle immagini? È un'attività di studi di futuro, non di previsione.
+
 ## Punti critici e da verificare
 
 - **Non sottovalutare il singolo dato**: anche un dato comparso una sola volta nell'addestramento può essere memorizzato ed estratto (Carlini et al. 2021). E il GDPR non ragiona in termini di probabilità.

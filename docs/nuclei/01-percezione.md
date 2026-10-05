@@ -39,6 +39,11 @@ Le aule sull'AI sono le più eterogenee che conosca: chi la usa tutte le notti, 
 - **Tre parole** (versione breve, 15 min): ognuno scrive a mano tre parole sull'AI, poi statistica per tavolo e confronto tra tavoli. Funziona bene in incontri da due ore e con pubblici molto eterogenei per età.
 - **La domanda della dipendenza**: nel giro di presentazione chiedo nome, lavoro, aspettative e *quanto sei dipendente dall'AI in questo momento?*. Fa ridere, e dà una scala immediata.
 
+Dal percorso per la scuola:
+
+- **Dalle parole alla nuvola** (45 min): tre parole sull'AI a testa, a mano. A gruppi si contano le frequenze (i sinonimi valgono come la stessa parola). Poi una nuvola di parole fatta a mano, con il carattere proporzionale alla frequenza, oppure generata da un sito importando un file con le colonne peso e parola. Ogni classe scrive le proprie regole per costruire la nuvola. Collegamento: nei sistemi digitali tutto diventa numero.
+- **Il questionario d'ingresso analizzato dagli studenti** (90 min): un questionario anonimo prima del corso (interesse per l'AI, aspettative, come preferisci studiare, consumi culturali). Ogni gruppo copia il foglio delle risposte, fa i grafici, li commenta e si chiede: cosa ti ha stupito? Avvertenze: le domande su "come impari" vanno presentate come preferenze, non come stili di apprendimento (vedi [scuola e didattica](12-scuola-e-didattica.md)); con i minori si raccolgono solo i dati che servono.
+
 ## Frasi che uso
 
 - "Tutti i guru dicono che bisogna saper scrivere. Per saper scrivere bisogna esercitarsi."
@@ -146,3 +151,82 @@ L'haiku fa emergere emozioni, le credenze fanno emergere convinzioni. Messe su u
 
 - I quattro quadranti diventano etichette da tifoseria. Ricordare che una stessa persona può stare in più quadranti.
 - La matrice l'ho proposta io: è una semplificazione, non una teoria. Lo dico.
+
+> **Da rivedere.** Scheda ricostruita dai materiali di un corso per la scuola: va controllata e completata.
+
+### AI on the beat: il rap delle credenze { #rap-credenze }
+
+**Durata:** 45 minuti · **Gruppo:** gruppi da 4 · **Materiali:** carta, una base musicale · **Schermi:** solo per la base
+
+**In una frase:** ogni gruppo scrive almeno quattro barre rap sull'AI, a mano e senza chatbot, sopra la stessa base.
+
+#### Perché la faccio
+
+È l'haiku per chi ha 15 anni, o per chi vuole divertirsi. Il ritmo costringe a sintetizzare, il gruppo costringe a mettersi d'accordo su cosa pensa. I testi sono una miniera di credenze da discutere.
+
+#### Passaggi
+
+1. **La base (5 min).** Una base unica, uguale per tutti.
+2. **Scrivi (25 min).** "Scrivete almeno 4 barre sull'AI che riportino i pensieri del gruppo." Niente chatbot.
+3. **Esegui (15 min).** Ogni gruppo legge o rappa le sue barre.
+
+#### Debriefing
+
+- Quali credenze tornano in più gruppi?
+- Cosa è un fatto, cosa un'opinione, cosa un errore? (Ponte verso "miti o fatti".)
+
+#### Varianti
+
+- **Con i docenti:** stessa attività; funziona anche con gli adulti.
+- **Più avanti nel corso:** far rigenerare il rap a una chatbot, prima senza indicazioni e poi partendo dal testo del gruppo; poi trasformarlo in canzone con un generatore musicale. Confronto: cosa si perde, cosa si guadagna?
+
+#### Cosa può andare storto
+
+- I testi dei ragazzi possono contenere volgarità o riferimenti a persone reali. Prima di condividerli fuori dalla classe si selezionano e si anonimizzano.
+
+> **Da rivedere.** Scheda ricostruita dai materiali di un corso per la scuola: va controllata e completata.
+
+### Miti o fatti { #miti-o-fatti }
+
+**Durata:** 45 minuti · **Gruppo:** gruppi da 4 · **Materiali:** dieci frasi stampate · **Schermi:** no
+
+**In una frase:** i gruppi classificano dieci affermazioni sull'AI in tre mucchi: mito, fatto, dibattuto.
+
+#### Perché la faccio
+
+Viene dal *Training from the Back of the Room*: prima si ragiona in gruppo, poi arriva la spiegazione. Prima ancora, ogni gruppo scrive cinque sue credenze, anche prese dal rap.
+
+#### Passaggi
+
+1. **Classifica (15 min).** Le dieci frasi vanno in tre mucchi. La terza categoria, **dibattuto**, è fondamentale: "l'AI sostituirà tutti i lavori" non è un mito né un fatto, è una previsione contestata.
+2. **Plenaria (20 min).** Per ogni frase: dove l'avete messa e perché? Poi la spiegazione.
+3. **Approfondisci (10 min).** Ogni gruppo prende una frase e cerca fonti per la volta successiva.
+
+#### Attenzione alle spiegazioni
+
+- "L'AI è un insieme di programmi che segue regole scritte da persone" contraddice il machine learning: le regole le ricava dagli esempi.
+- Gli esempi di giochi vanno scelti bene: Deep Blue ha battuto Kasparov a scacchi nel 1997; AlphaGo ha battuto i campioni di Go; AlphaZero ha imparato giocando contro se stesso.
+- "Ha sempre bisogno di dati forniti da persone": non sempre (vedi il gioco contro se stessi). Meglio: "non sceglie da sola obiettivi, dati e premio".
+
+> **Da rivedere.** Scheda ricostruita dai materiali di un corso per la scuola: va controllata e completata.
+
+### Perché sbagliamo: percezione, bias, stereotipi { #perche-sbagliamo }
+
+**Durata:** 90 minuti · **Gruppo:** gruppi da 4 · **Materiali:** un test sulle percezioni sbagliate, un'infografica sugli istinti · **Schermi:** sì
+
+**In una frase:** prima di parlare dei bias della macchina, misuriamo i nostri.
+
+#### Passaggi
+
+1. **Il test (15 min).** Un questionario a scelta multipla sui fatti del mondo, per esempio quelli di Gapminder sul clima. I risultati della classe vanno in un grafico. Di solito si sbaglia più che a caso.
+2. **Perché si sbaglia? (30 min).** Ogni gruppo adotta uno dei dieci "istinti drammatici" descritti da Hans Rosling in *Factfulness* e trova due esempi reali.
+3. **Dal bias al pregiudizio (25 min).** Due video brevi e una catena di parole: bias → stereotipo → pregiudizio.
+4. **Ritorno all'AI (20 min).** I dati con cui si allena una macchina li produciamo noi, con i nostri bias.
+
+#### Varianti
+
+- **Il catalogo dei bias:** ognuno adotta un bias cognitivo e ne racconta un esempio della propria vita.
+
+#### Note
+
+- Le corrispondenze tra istinti e bias vanno prese da fonti, non generate: alcuni nomi di bias che circolano online non esistono in letteratura.

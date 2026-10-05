@@ -175,3 +175,10 @@ Ritornello → strofa 1 (Talo, l'automa di bronzo che sorvegliava Creta) → bri
 #### Note
 
 - I brani del libro sono protetti da copyright: in aula si leggono estratti brevi, qui non si riproducono.
+
+## Attività brevi
+
+Dal percorso per la scuola:
+
+- **Il fumetto** (lettura a casa): *Comics & Science* del CNR dedicato all'AI, con test di Turing e leggi della robotica. Si distribuisce prima del corso, come primo contatto.
+- **Asimov, *Chissà come si divertivano*** (45 min): lettura o ascolto del racconto (1951, una scuola con un insegnante-macchina), domande di comprensione, poi un piccolo albo illustrato del racconto fatto dai gruppi. Domanda finale: com'era la scuola immaginata nel 1951, e come la immaginate voi?

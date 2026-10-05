@@ -63,6 +63,11 @@ Dal percorso uno a uno:
 - **Code interpreter, a fondo** (15 min): un ambiente isolato che esegue codice Python, di solito senza internet. Si attiva da solo o si chiede ("usa l'interprete di codice"). Si riconosce dal blocco di codice visibile. Caso d'uso: unire e analizzare più fogli di calcolo, poi una dashboard nel canvas. I numeri sono calcolati, ma il codice può essere sbagliato e la lettura dei dati pure: si controlla.
 - **Trascrizioni e verbali** (10 min): la piattaforma di videochiamata registra e trascrive. La trascrizione distingue chi parla in base all'account, non alla voce. Il riepilogo automatico usa un formato fisso, che non sempre serve: vedi la scheda [Riepiloghi su misura](#riepiloghi-su-misura).
 
+Dal percorso per la scuola:
+
+- **Prima la ricerca, poi la demo** (45 min): ogni gruppo cerca e presenta uno strumento generativo (testo, immagini, audio, video) prima che lo mostri il docente: cosa fa, quanto costa, da che età si può usare.
+- **La canzone della classe** (20 min): il testo scritto dalla classe diventa canzone con un generatore musicale. Si consegna il link. Attenzione all'età minima e all'account: di solito è meglio che lo generi il docente.
+
 ## Frasi che uso
 
 - "La fiducia non esiste. La fiducia si costruisce." (Come con i motori di ricerca.)

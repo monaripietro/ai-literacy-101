@@ -70,9 +70,11 @@ nav:
       - 09 Prompting: nuclei/09-prompting.md
       - 10 Agenti: nuclei/10-agenti.md
       - 11 Dati, etica e potere: nuclei/11-dati-etica-potere.md
+      - 12 Scuola e didattica: nuclei/12-scuola-e-didattica.md
   - Risorse:
       - Glossario: glossario.md
       - Strumenti e prompt: strumenti.md
       - Fonti: fonti.md
+      - Pubblicazioni: pubblicazioni.md
       - Evoluzione: evoluzione.md
       - Manutenzione: manutenzione.md
