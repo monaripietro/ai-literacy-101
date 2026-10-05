@@ -68,6 +68,10 @@ Dal percorso per la scuola:
 - **Prima la ricerca, poi la demo** (45 min): ogni gruppo cerca e presenta uno strumento generativo (testo, immagini, audio, video) prima che lo mostri il docente: cosa fa, quanto costa, da che età si può usare.
 - **La canzone della classe** (20 min): il testo scritto dalla classe diventa canzone con un generatore musicale. Si consegna il link. Attenzione all'età minima e all'account: di solito è meglio che lo generi il docente.
 
+Dal laboratorio universitario per futuri educatori:
+
+- **NotebookLM contro chatbot generalista** (45 min): lo stesso materiale di studio (una lezione registrata, un audio, un testo) dato a NotebookLM e a una chatbot generalista. Cosa cambia: uno risponde partendo dalle fonti caricate, l'altro parte dalla sua conoscenza e le fonti le aggiunge. Poi le funzioni "di studio": riassunto audio, mappa, guida allo studio, quiz. Usi possibili per un educatore: sviluppare un caso già presente nelle fonti, o uno nuovo; chiedere un feedback sul caso risolto. Regola: la validazione resta nostra. Limiti e piani gratuiti cambiano spesso: si controllano prima del corso.
+
 ## Frasi che uso
 
 - "La fiducia non esiste. La fiducia si costruisce." (Come con i motori di ricerca.)

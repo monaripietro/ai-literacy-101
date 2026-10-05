@@ -19,6 +19,7 @@ Le lezioni le tengo dal 2019: corsi aziendali, master, università, scuola. Le t
 |---|---|
 | [Metodo](metodo.md) | Il problema, l'obiettivo, i dieci principi |
 | [Fondamenta](fondamenta.md) | Le tradizioni pedagogiche, e quanto si vedono davvero in aula |
+| [Percorsi](percorsi/laboratorio-universitario.md) | Come combino i nuclei in un corso reale |
 | [Nuclei](#nuclei) | Un nucleo per pagina: concetti, conduzione, attività e schemi insieme |
 | [Glossario](glossario.md) | I termini, definiti come li uso in aula |
 | [Strumenti e prompt](strumenti.md) | Le web app (ognuna nel suo repo) e i prompt che uso come strumenti |
@@ -32,7 +33,7 @@ Ogni nucleo è una pagina sola. Dentro trovi perché, obiettivi, concetti chiave
 
 | Nucleo | Stato | Stabilità | Attività |
 |---|---|---|---|
-| [M01 · Percezione, da dove partiamo](nuclei/01-percezione.md) | scheda | stabile | Haiku sull'AI; Credenze sull'AI e matrice 2x2; AI on the beat: il rap delle credenze; Miti o fatti; Perché sbagliamo: percezione, bias, stereotipi |
+| [M01 · Percezione, da dove partiamo](nuclei/01-percezione.md) | scheda | stabile | Haiku sull'AI; Credenze sull'AI e matrice 2x2; AI on the beat: il rap delle credenze; Miti o fatti; Perché sbagliamo: percezione, bias, stereotipi; Competenze STEAM: chi sono io come educatore |
 | [M02 · Il sogno ancestrale, storia e cultura dell'AI](nuclei/02-storia-e-cultura.md) | scheda | stabile | Cineforum, "Torna da me"; La linea del tempo costruita dalla classe; Cantiamo insieme: la canzone dell'AI; ELIZA e Weizenbaum |
 | [M03 · Machine learning, lo schema a 6 caselle](nuclei/03-machine-learning.md) | completo | stabile | Il foglietto (lo strumento definitivo); Lo schema a 6 caselle su altri sistemi; Alleno un modello e ci costruisco un gioco |
 | [M04 · Complicato o complesso? Perché l'AI non si spiega](nuclei/04-complessita.md) | scheda | stabile | — |
@@ -42,7 +43,7 @@ Ogni nucleo è una pagina sola. Dentro trovi perché, obiettivi, concetti chiave
 | [M08 · Scegliere il modello, ragionamento e valutazioni](nuclei/08-modelli-e-ragionamento.md) | scheda | evolutivo | L'autolavaggio e il carrello |
 | [M09 · Prompting, la lente d'ingrandimento](nuclei/09-prompting.md) | scheda | evolutivo | Dal muro di testo ai cinque pilastri |
 | [M10 · Agenti, dall'aiuto all'autonomia](nuclei/10-agenti.md) | scheda — da sviluppare | evolutivo | — |
-| [M11 · Dati, etica e potere](nuclei/11-dati-etica-potere.md) | scheda | evolutivo | — |
+| [M11 · Dati, etica e potere](nuclei/11-dati-etica-potere.md) | scheda | evolutivo | Un questionario per la chatbot; Ridipingere un capolavoro |
 | [M12 · Scuola e didattica](nuclei/12-scuola-e-didattica.md) | scheda | evolutivo | — |
 
 ## Stabile, evolutivo, volatile

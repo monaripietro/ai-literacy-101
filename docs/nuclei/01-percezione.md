@@ -44,6 +44,11 @@ Dal percorso per la scuola:
 - **Dalle parole alla nuvola** (45 min): tre parole sull'AI a testa, a mano. A gruppi si contano le frequenze (i sinonimi valgono come la stessa parola). Poi una nuvola di parole fatta a mano, con il carattere proporzionale alla frequenza, oppure generata da un sito importando un file con le colonne peso e parola. Ogni classe scrive le proprie regole per costruire la nuvola. Collegamento: nei sistemi digitali tutto diventa numero.
 - **Il questionario d'ingresso analizzato dagli studenti** (90 min): un questionario anonimo prima del corso (interesse per l'AI, aspettative, come preferisci studiare, consumi culturali). Ogni gruppo copia il foglio delle risposte, fa i grafici, li commenta e si chiede: cosa ti ha stupito? Avvertenze: le domande su "come impari" vanno presentate come preferenze, non come stili di apprendimento (vedi [scuola e didattica](12-scuola-e-didattica.md)); con i minori si raccolgono solo i dati che servono.
 
+Dal laboratorio universitario per futuri educatori:
+
+- **Le aspettative e le loro tensioni** (20 min): nel questionario d'ingresso c'è la domanda "cosa ti aspetti di imparare?". Le risposte vanno su post-it, poi si cercano le tensioni: uso pratico contro riflessione etica, creatività contro regole, applicazione contro comprensione. Se le tensioni le estrae una chatbot, lo si dice alla classe e si controlla insieme se il riassunto è fedele.
+- **Il rap di chiusura** (60 min, ultimo incontro): stessa base del primo incontro, almeno otto barre su cosa si è imparato e cosa ha colpito. Il confronto con le barre del primo giorno mostra come è cambiata la percezione. Si affianca al questionario di valutazione, non lo sostituisce.
+
 ## Frasi che uso
 
 - "Tutti i guru dicono che bisogna saper scrivere. Per saper scrivere bisogna esercitarsi."
@@ -230,3 +235,33 @@ Viene dal *Training from the Back of the Room*: prima si ragiona in gruppo, poi 
 #### Note
 
 - Le corrispondenze tra istinti e bias vanno prese da fonti, non generate: alcuni nomi di bias che circolano online non esistono in letteratura.
+
+> **Da rivedere.** Scheda ricostruita da una mia lavagna Miro di un laboratorio universitario: va controllata e completata.
+
+### Competenze STEAM: chi sono io come educatore { #competenze-steam }
+
+**Durata:** 60 minuti · **Gruppo:** individuale, poi plenaria · **Materiali:** lavagna condivisa con post-it, carta e colori o lo strumento di disegno della lavagna · **Schermi:** sì
+
+**In una frase:** prima di parlare di AI, ognuno si chiede cosa sa fare: cos'è una competenza, quali competenze ha un educatore, quali competenze STEAM ho io. Poi si disegna.
+
+#### Perché la faccio
+
+Con chi studia per diventare educatore, "informatica" suona lontana. Partire dalle competenze sposta la domanda: non "cosa sa fare la macchina", ma "cosa so fare io, e cosa potrei fare con la tecnologia". È anche il primo uso della lavagna digitale, senza ansia.
+
+#### Passaggi
+
+1. **Competenza (10 min).** Un post-it a testa: "cosa significa per te competenza?". Lettura veloce: tornano sempre *saper fare*, *mettere in pratica*, *esperienza*.
+2. **L'educatore (10 min).** "Quali competenze ha un educatore o un'educatrice?". Vincono empatia e ascolto, quasi sempre.
+3. **STEAM (15 min).** Si scompone l'acronimo (scienza, tecnologia, ingegneria, arte, matematica) e si chiede: "quali sono le tue competenze STEAM?". Arrivano cucina, musica, fotografia, sport, "barista". Bene: sono competenze vere.
+4. **Autoritratto (20 min).** "Fai un disegno che rappresenti le tue caratteristiche e competenze". Poi una galleria.
+5. **Chiusura (5 min).** Educatori + competenze STEAM = ?
+
+#### Debriefing
+
+- Nessuno ha scritto "uso l'AI". Perché?
+- Le competenze relazionali (empatia, ascolto) sono quelle che pensiamo la macchina non abbia. Lo riprendiamo quando parliamo di chatbot "empatiche".
+
+#### Cosa può andare storto
+
+- La lavagna è condivisa con un link: gli autoritratti e i nomi sui post-it restano visibili a chiunque abbia il link. Si usano iniziali o pseudonimi, e a fine corso si ripulisce la lavagna.
+- Qualcuno scrive dati personali delicati nei post-it (per esempio una propria difficoltà di apprendimento). Si avvisa prima, e si cancellano.

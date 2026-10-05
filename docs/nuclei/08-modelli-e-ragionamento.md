@@ -68,6 +68,10 @@ Dal percorso uno a uno:
 - **Modelli diversi, caratteri diversi**: dati, algoritmi e calcolo diversi danno comportamenti diversi. Uno è più accondiscendente (*sycophancy*), uno segue meglio le istruzioni.
 - **Il modello è un file** (5 min): senza app e senza input non fa niente. Utile per smontare le notizie allarmistiche. Con i modelli locali i dati restano sulla tua macchina.
 
+Dal laboratorio universitario per futuri educatori:
+
+- **La personalità della chatbot** (45 min): ogni gruppo scrive un test di personalità o di attitudini per una chatbot, con una griglia di valutazione, e lo somministra a due o tre modelli. Da dove viene la "personalità"? In parte dai dati, in parte dalle scelte dei produttori: addestramento successivo, istruzioni di sistema, filtri. Un esempio concreto: un modello che evita le domande politiche su un certo Paese. Avvertenza: il test misura come il modello risponde a quel test, non un carattere.
+
 ## Punti critici e da verificare
 
 - **Numero di parametri dei modelli commerciali**: per i modelli chiusi le aziende **non pubblicano** questi numeri. Le cifre che circolano sono stime: vanno sempre presentate come tali, con la fonte.

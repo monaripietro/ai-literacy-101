@@ -146,7 +146,7 @@ Ritornello → strofa 1 (Talo, l'automa di bronzo che sorvegliava Creta) → bri
 
 #### Note
 
-- Testo di Pietro e Ilaria Monari, musica di Pietro Monari. La canzone ha licenza **CC BY-NC-SA 4.0**, diversa dal resto del repo. Testo e spartito: *link da inserire*.
+- Testo di Pietro e Ilaria Monari, musica di Pietro Monari. La canzone ha licenza **CC BY-NC-SA 4.0**, diversa dal resto del repo. [Spartito su MuseScore](https://musescore.com/user/4665021/scores/21440620); testo: *link da inserire*.
 - Semplificazione dichiarata: "trecento anni fa" è una licenza poetica. Il Turco è del 1770.
 
 > **Da rivedere.** Scheda ricostruita da una mia lavagna Miro: va controllata e completata.
@@ -182,3 +182,8 @@ Dal percorso per la scuola:
 
 - **Il fumetto** (lettura a casa): *Comics & Science* del CNR dedicato all'AI, con test di Turing e leggi della robotica. Si distribuisce prima del corso, come primo contatto.
 - **Asimov, *Chissà come si divertivano*** (45 min): lettura o ascolto del racconto (1951, una scuola con un insegnante-macchina), domande di comprensione, poi un piccolo albo illustrato del racconto fatto dai gruppi. Domanda finale: com'era la scuola immaginata nel 1951, e come la immaginate voi?
+
+Dal laboratorio universitario per futuri educatori:
+
+- **Le fonti originali** (30 min): l'articolo di Turing del 1950 e la proposta di Dartmouth del 1955, il primo documento accademico che usa l'espressione "intelligenza artificiale". A gruppi si legge un estratto e si cerca: cosa chiedevano, cosa promettevano, cosa è successo davvero. Le fonti sono importanti: qui si vede perché.
+- **Cinque perché dopo il cineforum** (30 min): dopo "Torna da me", la domanda iniziale è "ha senso ricreare una persona con l'AI?". Si applica la tecnica dei cinque perché (nata nella produzione industriale giapponese) prima a coppie, poi con una chatbot. Confronto: dove arriva la coppia, dove arriva la macchina? La tecnica ha un limite noto: porta a una sola catena di cause, e qui le cause sono molte.
