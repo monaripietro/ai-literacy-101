@@ -1,0 +1,13 @@
+.DS_Store
+*.tmp
+node_modules/
+__pycache__/
+site/
+# Le trascrizioni delle lezioni non vanno MAI nel repo
+*.txt
+!requirements.txt
+_privato/
+
+# Regole private per l agente
+CLAUDE.md
+revisione/

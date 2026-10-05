@@ -1,0 +1,79 @@
+site_name: AI literacy, by Pietro Monari
+site_description: Il metodo, i moduli e le attività per insegnare l'AI literacy
+site_author: Pietro Monari
+site_url: https://ailit101.monaripietro.it/
+repo_url: https://github.com/monaripietro/ai-literacy-101
+repo_name: AI literacy
+edit_uri: edit/main/docs/
+copyright: Testi CC BY 4.0 · Codice Apache 2.0 · Pietro Monari
+
+theme:
+  name: material
+  language: it
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: deep orange
+      toggle: {icon: material/weather-night, name: Tema scuro}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle: {icon: material/weather-sunny, name: Tema chiaro}
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search:
+      lang: it
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+exclude_docs: |
+  _modello-attivita.md
+
+nav:
+  - Home: index.md
+  - Metodo:
+      - Il metodo: metodo.md
+      - Fondamenta alla prova dell'aula: fondamenta.md
+      - Percorsi: percorsi.md
+  - Nuclei:
+      - 01 Percezione: nuclei/01-percezione.md
+      - 02 Storia e cultura: nuclei/02-storia-e-cultura.md
+      - 03 Machine learning: nuclei/03-machine-learning.md
+      - 04 Complessità: nuclei/04-complessita.md
+      - 05 Anatomia della chatbot: nuclei/05-anatomia-chatbot.md
+      - 06 L'LLM nudo e crudo: nuclei/06-caratteristiche-llm.md
+      - 07 Funzionalità: nuclei/07-funzionalita.md
+      - 08 Scegliere il modello: nuclei/08-modelli-e-ragionamento.md
+      - 09 Prompting: nuclei/09-prompting.md
+      - 10 Agenti: nuclei/10-agenti.md
+      - 11 Dati, etica e potere: nuclei/11-dati-etica-potere.md
+  - Risorse:
+      - Glossario: glossario.md
+      - Strumenti e prompt: strumenti.md
+      - Fonti: fonti.md
+      - Evoluzione: evoluzione.md
+      - Manutenzione: manutenzione.md
