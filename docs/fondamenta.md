@@ -15,21 +15,21 @@ Dichiarare delle fondamenta è facile. Più difficile è mostrare dove si vedono
 - **Debole**: c'è un'affinità, ma in aula non si vede quasi.
 - **Assente**: dichiarato, non praticato.
 
-| Fondamento | Come si vede in aula | Evidenza | Cosa manca |
-|---|---|---|---|
-| **Conoscere i termini** | Obiettivo dichiarato del giorno 1; permesso di "sgridare" chi sbaglia i termini; glossario costruito insieme | Forte | — |
-| **Fare con le mani** | Foglietto piegato, disegni, post-it, gioco della frase a catena | Forte | Nel giorno 2 (funzionalità, prompting) la manualità sparisce: si lavora solo a schermo |
-| **Attività artistiche per esplorare sé e la tecnologia** | Haiku, canzone, rap, poesia nello stile di un autore, cineforum | Forte | Il giorno 2 non ha un'attività artistica di chiusura che riprenda l'haiku iniziale |
-| **Storia della tecnologia** | Sogno ancestrale, Turco meccanico, linea del tempo, Turing letto ad alta voce, Dartmouth | Forte in un'edizione, parziale in un'altra | In un'edizione la storia è compressa nella canzone e nel Turco meccanico |
-| **Abitare la complessità** | Complicato vs complesso, black box, proprietà emergenti, "non lo sappiamo" | Forte | Manca uno strumento che i partecipanti possano riusare (resta un'esposizione) |
-| **Le fonti sono importanti** | Aprire le fonti, doppia opacità della ricerca web, Consensus, letture originali | Forte | Rischio di incoerenza: numeri citati (parametri, costi) senza fonte. Regola: ogni numero nel repo ha una fonte |
-| **Inquiry-based learning** | Esperimenti con esito da osservare: tokenizzatore, cutoff, allucinazioni, test inverso sugli allegati | Forte | Spesso sono io a formulare l'ipotesi; raramente sono i partecipanti a porre la domanda da indagare |
-| **Costruzionismo (Papert)** | Si costruiscono artefatti: la mappa sul foglio, il sito di un personaggio inventato nel canvas, chat personalizzate | Parziale | Gli artefatti sono quasi sempre guidati passo passo e uguali per tutti. Papert chiede artefatti **personalmente significativi e condivisibili**. Mai nominato in aula |
-| **Training from the Back of the Room** | Movimento, post-it, canzone, pause frequenti, la regola dei blocchi brevi | Parziale | Due giorni da 12 ore con lunghe parti frontali. Il principio TBR "chi parla di più impara di più" è spesso rovesciato: parlo io |
-| **Problem-based / Project-based learning** | I progetti dei partecipanti emergono (es. chi sta costruendo un'organizzazione di agenti) e vengono discussi | Debole | Non c'è un problema o un progetto che faccia da filo conduttore del corso. Gli scenari degli esercizi sono generici e alcuni partecipanti lo fanno notare ("la realtà del lavoro è più complessa") |
-| **Bruno Munari** | Affinità: giocare con le regole (il vincolo 5-7-5), conoscere facendo, lo strumento semplice (il foglio piegato) | Debole | Mai nominato. Da rendere esplicito con un'attività dichiaratamente munariana, o da togliere dalle fondamenta |
-| **Reggio Children** | Affinità: documentazione del processo (la lavagna Miro esportata), i "cento linguaggi" (musica, poesia, disegno) | Debole | Mai nominato. Reggio nasce per l'infanzia: il passaggio agli adulti va argomentato, non dato per scontato |
-| **Studi di futuro e pensiero anticipante** | Accenni: "uno dei futuri possibili", scenari sul lavoro, il cineforum su Black Mirror | Debole | Nessuno strumento di futures literacy (cono dei futuri, futures wheel, scenari, backcasting). È il gap più grande rispetto a quanto dichiarato |
+| Fondamento | Come si vede in aula | Evidenza |
+|---|---|---|
+| **Conoscere i termini** | Obiettivo dichiarato del giorno 1; permesso di "sgridare" chi sbaglia i termini; glossario costruito insieme | Forte |
+| **Fare con le mani** | Foglietto piegato, disegni, post-it, gioco della frase a catena | Forte |
+| **Attività artistiche per esplorare sé e la tecnologia** | Haiku, canzone, rap, poesia nello stile di un autore, cineforum | Forte |
+| **Storia della tecnologia** | Sogno ancestrale, Turco meccanico, linea del tempo, Turing letto ad alta voce, Dartmouth | Forte in un'edizione, parziale in un'altra |
+| **Abitare la complessità** | Complicato vs complesso, black box, proprietà emergenti, "non lo sappiamo" | Forte |
+| **Le fonti sono importanti** | Aprire le fonti, doppia opacità della ricerca web, Consensus, letture originali | Forte |
+| **Inquiry-based learning** | Esperimenti con esito da osservare: tokenizzatore, cutoff, allucinazioni, test inverso sugli allegati | Forte |
+| **Costruzionismo (Papert)** | Si costruiscono artefatti: la mappa sul foglio, il sito di un personaggio inventato nel canvas, chat personalizzate | Parziale |
+| **Training from the Back of the Room** | Movimento, post-it, canzone, pause frequenti, la regola dei blocchi brevi | Parziale |
+| **Problem-based / Project-based learning** | I progetti dei partecipanti emergono (es. chi sta costruendo un'organizzazione di agenti) e vengono discussi | Debole |
+| **Bruno Munari** | Affinità: giocare con le regole (il vincolo 5-7-5), conoscere facendo, lo strumento semplice (il foglio piegato) | Debole |
+| **Reggio Children** | Affinità: documentazione del processo (la lavagna Miro esportata), i "cento linguaggi" (musica, poesia, disegno) | Debole |
+| **Studi di futuro e pensiero anticipante** | Accenni: "uno dei futuri possibili", scenari sul lavoro, il cineforum su Black Mirror | Debole |
 
 ## Cosa ne ricavo
 

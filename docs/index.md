@@ -19,7 +19,6 @@ Le lezioni le tengo dal 2019: corsi aziendali, master, università, scuola. Le t
 |---|---|
 | [Metodo](metodo.md) | Il problema, l'obiettivo, i dieci principi |
 | [Fondamenta](fondamenta.md) | Le tradizioni pedagogiche, e quanto si vedono davvero in aula |
-| [Percorsi](percorsi.md) | Come combino i nuclei in un corso (2 giorni, 1 giorno, 2 ore) |
 | [Nuclei](#nuclei) | Un nucleo per pagina: concetti, conduzione, attività e schemi insieme |
 | [Glossario](glossario.md) | I termini, definiti come li uso in aula |
 | [Strumenti e prompt](strumenti.md) | Le web app (ognuna nel suo repo) e i prompt che uso come strumenti |

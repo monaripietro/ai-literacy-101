@@ -17,7 +17,7 @@ Le lezioni le tengo dal 2019: corsi aziendali, master, università, scuola. Le t
 
 | Percorso | Cosa trovi |
 |---|---|
-| [`docs/metodo.md`](docs/metodo.md) · [`fondamenta.md`](docs/fondamenta.md) · [`percorsi.md`](docs/percorsi.md) | Metodo e principi; fondamenta alla prova dell'aula; come combino i nuclei in un corso |
+| [`docs/metodo.md`](docs/metodo.md) · [`fondamenta.md`](docs/fondamenta.md) | Metodo e principi; fondamenta alla prova dell'aula |
 | [`docs/nuclei/`](docs/nuclei/) | Un file per nucleo tematico: concetti, conduzione, attività e schemi insieme |
 | [`docs/glossario.md`](docs/glossario.md) | I termini, definiti come li uso in aula |
 | [`docs/strumenti.md`](docs/strumenti.md) | Web app (ognuna nel suo repo) e prompt |
